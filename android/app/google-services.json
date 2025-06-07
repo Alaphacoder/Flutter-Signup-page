@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8302377041",
+    "project_id": "prg1-83305",
+    "storage_bucket": "prg1-83305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8302377041:android:0b8deb08e86df627362070",
+        "android_client_info": {
+          "package_name": "com.example.prg1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYx39-AOanx9_Z7leFX_7Wqf9xdJXFnxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
